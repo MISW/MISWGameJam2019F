@@ -1,5 +1,5 @@
 # MISW Game Jam 2019 F班 成果物 公開場所
-このレポジトリは上記制作物の配布用です。masterブランチをGitHub Pagesに指定しています。レポジトリの移動や削除をしたい場合、53代のoguniまたは白に連絡をお願いします。
+このレポジトリは上記制作物の配布用です。masterブランチをGitHub Pagesに指定しています。
 
 URL: https://misw.github.io/MISWGameJam2019F/
 
